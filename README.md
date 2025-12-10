@@ -1,9 +1,9 @@
-![logo](https://i.redd.it/n8agw6z2smyb1.gif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
@@ -37,7 +37,7 @@
 
  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"><img align="center" width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> Languages-Frameworks-Tools <img align="center"  width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,python,vscode,github,react,git,tailwind,html,css" />
@@ -67,9 +67,22 @@
 
 <br/><br/>
 
-<hr/>
-
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <br/>
+
+<h2 align="center" size="40">Thanks for scrolling all the way!</h2>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9409&width=435&lines=Thanks+for+visiting+my+Github!;Let's+connect+and+collaborate!" alt="Typing SVG" /></a>
+</h1>
+
+<h3 align="center" size="40">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/sreejib_nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreejib_nandy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreejib-nandy-9794b2321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreejib-nandy-9794b2321" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sreejibnandy2518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sreejibnandy2518" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sreejib-nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreejib-nandy" height="30" width="40" /></a>
+</p>
+
 
 
 
