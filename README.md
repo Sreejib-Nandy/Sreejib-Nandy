@@ -1,6 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
 </h1>
