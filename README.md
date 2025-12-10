@@ -60,7 +60,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sreejib-Nandy&count_private=true&theme=dark&border_radius=15" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sreejib-Nandy&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sreejib-Nandy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15%22%20alt=%22readme%20stats" alt="readme stats" />
   <br/>
 </div>
@@ -83,6 +83,10 @@
 <a href="https://www.leetcode.com/sreejib-nandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreejib-nandy" height="30" width="40" /></a>
 </p>
 
+## 🐍 My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sreejib-Nandy/Sreejib-Nandy/output/snake.svg" />
+</p>
 
 
 
