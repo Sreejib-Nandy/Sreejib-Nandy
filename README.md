@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sreejib+Nandy!;+CSE+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;+Coding+My+Way+to+FAANG+🚀;" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
@@ -46,16 +46,6 @@
 
 <br/>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
