@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [ResQFood – Surplus Food Distribution Web App](https://github.com/ArindamMandal1/ResQFood)
+ 🔭 I’m currently working on [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
 
  🌱 I’m currently learning **🛸 Three.js • 🤖 AI/ML • 🧬 Generative AI Engineering • ⚡ Next.js**
 
