@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
 
- 🌱 I’m currently learning **• 🤖 AI/ML • 🧬 Generative AI Engineering **
+ 🌱 I’m currently learning ** • 🤖 AI/ML • 🧬 Generative AI Engineering **
 
  👯 I’m looking to collaborate on **Full-stack Web Projects, Hackathon Ideas & DSA-based tools**
 
