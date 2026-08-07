@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
+ 🔭 I’m currently working on [Development of an ESP32-based Autonomous Mobile Irrigation Robot with real-time soil monitoring](https://github.com/Sreejib-Nandy/Development-of-an-ESP32-based-Autonomous-Mobile-Irrigation-Robot-using-Real-time-Soil-Monitoring)
 
  🌱 I’m currently learning • 🤖 AI/ML • 🧬 Generative AI Engineering 
 
