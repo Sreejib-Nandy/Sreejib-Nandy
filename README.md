@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on [Development of an ESP32-based Autonomous Mobile Irrigation Robot with real-time soil monitoring](https://github.com/Sreejib-Nandy/Development-of-an-ESP32-based-Autonomous-Mobile-Irrigation-Robot-using-Real-time-Soil-Monitoring)
+ 🔭 I’m currently working on [AI-Based-Crop-Disease-Detection-Pest-Control-Platform](https://github.com/Sreejib-Nandy/AI-Based-Crop-Disease-Detection-Pest-Control-Platform)
 
  🌱 I’m currently learning • 🤖 AI/ML • 🧬 Generative AI Engineering 
 
